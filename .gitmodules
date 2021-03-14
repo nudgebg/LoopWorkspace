@@ -3,7 +3,7 @@
 	url = https://github.com/nudgebg/Loop.git
 [submodule "LoopKit"]
 	path = LoopKit
-	url = https://github.com/nudgebg/LoopKit.git
+	url = https://github.com/nudgebg/LoopKit-Fork.git
 [submodule "CGMBLEKit"]
 	path = CGMBLEKit
 	url = https://github.com/LoopKit/CGMBLEKit.git
@@ -18,7 +18,7 @@
 	url = https://github.com/LoopKit/G4ShareSpy.git
 [submodule "rileylink_ios"]
 	path = rileylink_ios
-	url = https://github.com/nudgebg/rileylink_ios.git
+	url = https://github.com/nudgebg/rileylink_ios-fork.git
 [submodule "Amplitude-iOS"]
 	path = Amplitude-iOS
 	url = https://github.com/LoopKit/Amplitude-iOS.git
