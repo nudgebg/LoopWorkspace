@@ -1,9 +1,9 @@
 [submodule "Loop"]
 	path = Loop
-	url = https://github.com/LoopKit/Loop.git
+	url = https://github.com/nudgebg/Loop.git
 [submodule "LoopKit"]
 	path = LoopKit
-	url = https://github.com/LoopKit/LoopKit.git
+	url = https://github.com/nudgebg/LoopKit-Fork.git
 [submodule "CGMBLEKit"]
 	path = CGMBLEKit
 	url = https://github.com/LoopKit/CGMBLEKit.git
@@ -18,10 +18,19 @@
 	url = https://github.com/LoopKit/G4ShareSpy.git
 [submodule "rileylink_ios"]
 	path = rileylink_ios
-	url = https://github.com/ps2/rileylink_ios.git
+	url = https://github.com/nudgebg/rileylink_ios-fork.git
 [submodule "Amplitude-iOS"]
 	path = Amplitude-iOS
 	url = https://github.com/LoopKit/Amplitude-iOS.git
 [submodule "MKRingProgressView"]
 	path = MKRingProgressView
 	url = https://github.com/LoopKit/MKRingProgressView.git
+[submodule "NightscoutService"]
+	path = NightscoutService
+	url = https://github.com/ps2/NightscoutService.git
+[submodule "Minizip"]
+	path = Minizip
+	url = https://github.com/dexman/Minizip.git
+[submodule "TrueTime.swift"]
+	path = TrueTime.swift
+	url = https://github.com/instacart/TrueTime.swift.git
